@@ -1,0 +1,89 @@
+.body {
+    display: flex;
+    justify-content: space-evenly;
+}
+header {
+    font-size: large;
+    font-weight: bold;
+    margin: auto;
+    
+}
+.icon {
+width: 20px;
+}
+.header {
+    display: flex;
+    justify-content: flex-start;
+}
+h2 {
+    margin-left: 30px;
+}
+
+.m-100 {
+    width: 100%;
+}
+    .mar-15 {
+        margin-bottom: 15px;
+    }
+
+.auth-for-container {
+    width: 300px;
+    min-height: 200px;
+    margin: auto;
+    padding: 15px;
+    box-sizing: border-box;
+    
+}
+
+.auth-for-container,
+.input-text-label,
+.input-text {
+    display: block;
+    width: 100%;
+    height: 30px;
+}
+.auth-for-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+
+.text {
+    color: cadetblue;
+}
+.container {
+width: 333px;
+height: 700px;
+align-items: center;
+}
+.container {
+    display: block;
+    align-items: center;
+}
+span{
+    color: red;
+}
+.create-an-account {
+    color: white;
+    background-color: blue;
+    height: 35px;
+    border-radius: 10%;
+    border: 0px;
+    font-weight: bold;
+}
+.sign-up-with-google {
+    color: blue;
+    background-color: white;
+    height: 35px;
+    border: 1px solid cadetblue;
+    border-radius: 10%;
+    font-weight: bold;
+}
+.form-group {
+    margin: 15px;
+    width: 100%;
+}
+
+
